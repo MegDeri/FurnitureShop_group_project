@@ -1,29 +1,29 @@
 # WDP Team project
 
-## Opis projektu
+## Description:
 
-DO UZUPEŁNIENIA
+....
 
 ## Demo
 
-DO UZUPEŁNIENIA
+.....
 
 ## Init project
 
- After clone project use commend `npm install` to install all dependencies.
+ Clone a project and use command `npm install` to install all dependencies;
 
-Teraz możesz zacząć pracę, korzystając z przygotowanych zadania `npm run watch`.
+after that you can use command `npm run watch`.
 
-All necessary files to start working on the project you find in  `src/`.
+ You find all necessary files in:  `src/` to start working on the project.
 
 ## NPM Scripts
 
 3 main scripts are available to speed up your work:
 
-- `build`: it's based on files found in folder: `src` it builds project in folder: `dist`
-- `watch`: runs `browser-sync`, and watches changing in: `src` and rebuild project.
-- `code-quality`: automatically formats files in: `src/`
-  according to the accepted code formatting convention and check errors in JS.
+- `build`: it is based on files found in folder: `src` it builds project in folder: `dist`
+- `watch`: runs `browser-sync`, and keeps on the watch changing in: `src` then rebuild project.
+- `code-quality`: it' s automatically formatting the files in: `src/`
+  according to the accepted code formatting convention and checks errors in JS.
 
 ## Git Hooks
 
