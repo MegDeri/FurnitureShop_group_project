@@ -1,4 +1,4 @@
-# WDP Projekt Zespołowy
+# WDP Team project
 
 ## Opis projektu
 
@@ -8,22 +8,22 @@ DO UZUPEŁNIENIA
 
 DO UZUPEŁNIENIA
 
-## Inicjacja projektu
+## Init project
 
-Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `npm install`.
+ After clone project use commend `npm install` to install all dependencies.
 
 Teraz możesz zacząć pracę, korzystając z przygotowanych zadania `npm run watch`.
 
-Wszystkie potrzebne do pracy pliki źródłowe znajdują się w folderze `src/`.
+All necessary files to start working on the project you find in  `src/`.
 
 ## NPM Scripts
 
-Dostępne są 3 główne skrypty przyspieszające pracę:
+3 main scripts are available to speed up your work:
 
-- `build`: na bazie plików z folderu `src` buduje project w folderze `dist`
-- `watch`: odpala `browser-sync`, obserwuje zmiany w folderze `src` i przebudowuje projekt
-- `code-quality`: skrypt dokonuje automatycznego formatowania plików w folderze `src/`
-  zgodnie z przyjętą konwencją formatowania kodu i sprawdza błędy w JS.
+- `build`: it's based on files found in folder: `src` it builds project in folder: `dist`
+- `watch`: runs `browser-sync`, and watches changing in: `src` and rebuild project.
+- `code-quality`: automatically formats files in: `src/`
+  according to the accepted code formatting convention and check errors in JS.
 
 ## Git Hooks
 
