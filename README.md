@@ -26,16 +26,7 @@ after that you can use command `npm run watch`.
 
 ## Git Hooks
 
-Projekt korzysta z Git Hooks - możliwości uruchamiania skryptów w reakcji na wybrane zdarzenia programu Git.
-
-Za każdym razem gdy wykonasz komendę `git commit` zostanie uruchomiony skrypt `code-quality`
-dla plików, które zostały wybrane do za-commit'owania.
-
-## Konwencje i dobre praktyki
-
-DO UZUPEŁNIENIA
-
-# task WDP190504-35
+The project uses Git Hooks.
 
 ## Description
 
